@@ -26,7 +26,7 @@ We are going to store the code for our seedJob in a github repository called mic
 
 1. Navigate to Dashboard > select seedJob > select Configure.
 2. Scroll to the Source Code Management section > select Git.
-3. In the Repository URL field, enter https://github.com/jitendar-singh/microservice-pipelines.
+3. In the Repository URL field, enter https://github.com/jitendar-singh/microservice-pipeline
 Leave everything else as the default configuration.
 
 # Configure seedJob to use the seed.groovy file we will store in github
